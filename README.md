@@ -43,7 +43,7 @@ Feel free to modify the code to fit your specific needs and integrate it into yo
 
 ![sample gif](res/sample.gif)
 
-![sample mp4](https://github.com/sajiniho07/CameraPersonRecognizer/blob/master/res/sample.mp4)
+![sample mp4](res/sample.mp4)
 
 ## Credits
 This code was developed by Sajad Kamali.
