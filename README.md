@@ -41,7 +41,7 @@ Feel free to modify the code to fit your specific needs and integrate it into yo
 
 ## Example
 
-![sample gif](https://github.com/sajiniho07/CameraPersonRecognizer/blob/master/res/sample.gif)
+![sample gif](res/sample.gif)
 
 ![sample mp4](https://github.com/sajiniho07/CameraPersonRecognizer/blob/master/res/sample.mp4)
 
